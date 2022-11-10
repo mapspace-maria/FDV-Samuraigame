@@ -1,6 +1,6 @@
 # FDV-Samuraigame
 
-Desarrollar una escena 3D que cumpla con los siguientes requsitos:
+Desarrollar una escena 3D que cumpla con los siguientes requisitos:
 
 1. Incorporar un samurai, un grupo de arañas y sus huevos de la asset store.
 
